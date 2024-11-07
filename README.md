@@ -1,4 +1,4 @@
-# news-sentiment-stock
+# News Sentiment Analysis and Stock Impact
 This is a project for my Fundamental of Data Science Course at USTH. Special thanks to my teammate @luuly2110 for contributing to this project. 
 
 Since our project analysed 3 stocks, and all of them are processed in the same way, the code uploaded is only for NVDA
